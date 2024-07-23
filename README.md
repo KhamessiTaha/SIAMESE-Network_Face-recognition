@@ -5,7 +5,7 @@ This project implements a Siamese Network for face recognition tasks. Siamese Ne
 ## Project Structure
 
 - `data/`: Directory for storing datasets.
-- `notebooks/`: Jupyter notebooks for experimentation.
+- `notebooks/`: Jupyter notebooks for experimentation and Training the Network if you don't have a GPU.
 - `src/`: Source code for the project.
 - `models/`: Directory for saving trained models.
 
